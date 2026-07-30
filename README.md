@@ -94,11 +94,13 @@ I'm a **Senior Frontend Engineer** with **15+ years of proven expertise** in bui
 
 ### GitHub Performance Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankumarav05&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-pavankumarav05-4767s-projects.vercel.app/api?username=pavankumarav05&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarav05&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarav05&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-pavankumarav05-4767s-projects.vercel.app/api/top-langs/?username=pavankumarav05&layout=compact&theme=tokyonight&hide_border=true)
+
+![Repo Card](https://github-readme-stats-pavankumarav05-4767s-projects.vercel.app/api/pin/?username=pavankumarav05&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true)
 
 </div>
 
